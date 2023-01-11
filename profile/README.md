@@ -1,5 +1,4 @@
-[![homepage](https://img.shields.io/website?logo=wasmcloud&label=Homepage&url=https%3A%2F%2Fwasmcloud.com)](https://wasmcloud.com)
-[![documentation site](https://img.shields.io/website?logo=wasmcloud&label=Documentation&url=https%3A%2F%2Fwasmcloud.dev)](https://wasmcloud.dev)
+[![homepage & documentation](https://img.shields.io/website?logo=wasmcloud&label=Homepage%20and%20Documentation&url=https%3A%2F%2Fwasmcloud.com)](https://wasmcloud.com)
 [![CNCF sandbox project](https://img.shields.io/website?logo=cncf&label=CNCF%20Sandbox%20Project&url=https://landscape.cncf.io/?selected=wasm-cloud)](https://landscape.cncf.io/?selected=wasm-cloud)
 [![Stars](https://img.shields.io/github/stars/wasmcloud?logo=wasmcloud&color=gold&label=wasmCloud%20Org%20Stars)](https://github.com/wasmcloud/)
 ![Powered by WebAssembly](https://img.shields.io/badge/powered%20by-WebAssembly-orange.svg?logo=webassembly&logoColor=white)<br />
