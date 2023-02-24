@@ -10,3 +10,15 @@
 ![wasmCloud logo](https://raw.githubusercontent.com/wasmCloud/branding/main/02.Horizontal%20Version/Pixel/PNG/Wasmcloud.Logo-Hrztl_Color.png)
 
 wasmCloud lets you focus on shipping _features_. Build secure, portable, re-usable components called **_actors_** and get rid of the headaches that come from being smothered by boilerplate, dependency hell, tight coupling, and making design decisions mandated by your infrastructure.
+
+👐🏼 Better Together!
+-----
+
+Come join us on [Slack](https://slack.wasmcloud.com/) and follow us on [Twitter](https://twitter.com/wasmcloud) to keep up to date on updates and community events!
+
+<p align="center">
+<a href="https://github.com/wasmcloud/wasmcloud-otp/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=wasmcloud/wasmcloud-otp&max=20">
+</a>
+</p>
+
