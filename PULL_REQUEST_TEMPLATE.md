@@ -22,19 +22,21 @@ Indicate the impact, if any, this change will have on other consumers, dependenc
 <!---
 Declare the testing information for this pull request
 --->
-Tested on platform(s)
+
+<!---
+Identify the platforms on which this code was built (include both OS and CPU architecture)
+--->
+Built on platform(s)
 - [ ] x86_64-linux
 - [ ] aarch64-linux
 - [ ] x86_64-darwin
 - [ ] aarch64-darwin
 - [ ] x86_64-windows
 
-
-## Platforms
 <!---
 Identify the platforms on which this code was tested (include both OS and CPU architecture)
 --->
-Built on platform(s)
+Tested on platform(s)
 - [ ] x86_64-linux
 - [ ] aarch64-linux
 - [ ] x86_64-darwin
